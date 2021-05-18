@@ -1,2 +1,0 @@
-# JDBC
-bases de datos
